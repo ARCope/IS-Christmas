@@ -1,0 +1,54 @@
+
+
+
+ /* */
+body{
+    background-color: rgb(255, 255, 255);
+}
+.ps {   
+    color: black;
+    font-family: "fantasy" bold;
+    font-weight: bolder;
+    font-size: 13px;
+}
+.YoutubeVideo{
+    align-content: center;
+    margin: 175px;
+    display: block;
+}
+.darkbackground{
+    background-color: rgb(163, 161, 161);
+}
+.addmargin{
+    margin-left: 390px;
+}
+nav {
+    text-align: center;
+    background-color: green;
+    overflow: hidden;
+    width: 100%;
+    position:sticky;
+    top: 0px;
+}
+nav a {
+    color: white !important;
+    display: block;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: red;
+}
+.bottom{
+    text-align: center;
+    background-color: green;
+    width: 100%;
+    border-top: 5px rgb(2, 73, 2) solid;
+    display: block;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    color: white;
+}
