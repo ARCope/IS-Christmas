@@ -10,15 +10,15 @@ body{
   font-size: 13px;
 }
 .YoutubeVideo{
-  align-content: center;
-  margin: 175px;
-  display: block;
+    align-content: center;
+    margin: 12%;
+    display: block;
 }
 .darkbackground{
-  background-color: rgb(163, 161, 161);
+    background-color: rgb(163, 161, 161);
 }
 .addmargin{
-  margin-left: 390px;
+    margin-left: 27%;
 }
 nav {
   text-align: center;
